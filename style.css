@@ -20,13 +20,13 @@ body {
     width: 320px;
     height: 497px;
     background-color: hsl(0, 0%, 100%);
-    border-radius: 15px;
+    border-radius: 20px;
 }
 
 .qr-code-img img {
     width: 288px;
     margin: 16px 16px 0px 16px;
-    border-radius: 15px;
+    border-radius: 10px;
 }
 
 h1, p {
@@ -35,7 +35,7 @@ h1, p {
 
 h1 {
     font-weight: 700;
-    font-size: x-large;
+    font-size: larger;
     color: hsl(218, 44%, 22%);
     padding: 1rem;
 }
@@ -43,6 +43,6 @@ h1 {
 p {
     font-size: 15px;
     font-weight: 400;
-    color: hsl(212, 45%, 89%);
+    color: #7D889E;
     padding-inline: 1.5rem;
 }
