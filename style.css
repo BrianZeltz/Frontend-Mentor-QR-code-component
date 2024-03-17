@@ -21,8 +21,6 @@ body {
     height: 497px;
     background-color: hsl(0, 0%, 100%);
     border-radius: 15px;
-
-    border: red solid;
 }
 
 .qr-code-img img {
